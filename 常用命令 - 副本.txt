@@ -1,0 +1,132 @@
+
+
+
+
+刘亚超
+	18638281536
+	
+	
+	
+	
+	32位
+	64位    CPU 一次运算能认识的最大的数
+	
+	bit  bit位   1位       1   0
+	byte  字节  1 byet  8位
+	KB	1KB 	1024 byte
+	MB	1MB	1024 KB
+	GB	1G  1024 M
+	T	1T	1024G
+	P	1P 1024 G
+	
+	
+	16  * 1024 * 1024 * 1024 * 8 
+	
+	
+	
+windows 系统中的常用命令：或者称为 dos 命令行
+
+	    
+	启动 DOS 命令行：
+	win + r    输入  cmd 回车
+	
+	dir 查看当前目录中的文件
+	在  c d e f 盘之前切换   c: 回车   d: 回车
+	
+	在同一个硬盘不同目录之间切换：
+	cd .. 	返回上一级目录
+	cd vbox 进入当前目录中的vbox 目录
+	cd \ 	回到根目录
+	cd U 	Tab 键 tab 键会自动提示当前目录下以指定字母打头的目录
+	
+	cls 清理屏幕
+	上 下 按键用于快速查看当前使用的命令
+	
+	mkdir py2  创建 py2 文件夹
+	rmdir py2  删除文件夹
+	
+	notepad test.txt  创建test.txt 文件
+	del test.txt  删除文件
+	
+	ping IP地址 or 域名   用于检测到指定的IP 或网站之间网格是否畅通。
+	ping www.qq.com
+	ping 192.168.21.33 
+	
+	ipconfig /all   查看当前主机的IP 地址配置信息
+	
+	
+	IP 地址 是同一个网络中，某一台电脑的唯一地址：
+	xxx.xxx.xxx.xxx   四组数字加三个点组成
+	每一组数字是 0-255 之间
+	
+		
+linux 常用命令
+
+	打开终端： ctrl + alt + t  
+	ctrl + shift + t 在一个终端中，打开新的标签
+	alt + 1  alt +2 在不同的标签中切换
+	
+	增大字体 ctrl + shift + = 号按键  其实是  ctrl + +号按号，而加号，需要用 shift + =号，来实现
+	减小字体 ctrl + -号按键
+	
+	ls 查看文件列表
+	cd Desktop/ 进入桌面目录
+	cd .. 	返回上一级目录
+	cd ~ 	回到家目录
+	
+	cd De 	Tab 键 tab 键会自动补全
+	
+	pwd 查看当前路径
+	
+	clear 清理屏幕
+	
+	上 下 按键用于快速查看当前使用的命令
+	
+	mkdir py2  创建 py2 文件夹
+	rmdir py2  删除文件夹
+	
+	
+	echo 'hello world' > test.txt  将 内容写入 文件  text.txt
+	rm test.txt  删除文件
+	
+	ping IP地址 or 域名   用于检测到指定的IP 或网站之间网格是否畅通。
+	ping www.qq.com
+	ping 192.168.21.33 
+	
+	ctrl + c  结束当前正在运行的命令
+	
+	exit 退出终端
+	
+	touch abc.txt	创建 abc.txt 文件
+	
+	ls --help 查看 ls 命令的帮助文档 
+	
+	cat abc.txt 查看 abc.txt 中的内容
+	
+	cp test.txt ./Desktop/  将当前目录下的 test.txt 复制到 Desktop/目录中
+
+	mv test.txt ./Desktop/  将当前目录下的 test.txt 移动到 Desktop/目录中
+	
+	mv asdf.txt test.txt  经常也用 mv 命令 重命名文件
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
